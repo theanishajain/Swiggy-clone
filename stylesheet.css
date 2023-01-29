@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    
+}
+.left{
+    display: flex;
+    width: 50%;
+}
+.right{
+    display: flex;
+    width: 50%;
+
+}
+.container1{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.container2{
+   
+   
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.container2 li{
+    margin-right: 7%;
+  
+   display: inline;
+}
